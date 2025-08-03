@@ -3,7 +3,7 @@
 This is a personal portfolio website built as part of the **PLP Academy July 2025 Hackathon Challenge**.
 
 ## 🔗 Live Link
-[View Portfolio](https://github.com/Godsfavour-LevelerKing/leveler-portfolio)
+[View Portfolio](https://godsfavour-levelerking.github.io/leveler-portfolio/)
 
 ## 🧱 Sections Included
 - About Me
